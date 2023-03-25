@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" width="350"/>
   <h1 align="center">Hi ✌️ I'm System Engineer Studen</h1>
-  <h3 align="center">I am currently a student of the engineering career. in computer systems, I am 20 years old and I live in Santo Domingo, Dominican Republic<h3>
+  <h3 align="center">I am currently a student of the engineering career in computer systems, I am 20 years old and I live in Santo Domingo, Dominican Republic<h3>
 </div>
 
 Console.log("Hello")
