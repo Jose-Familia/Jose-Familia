@@ -1,16 +1,28 @@
-### Hi there 👋
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" width="200"/>
+</div>
 
-<!--
-**Jose-Familia/Jose-Familia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there ✌️
 
-Here are some ideas to get you started:
+# Console.log("Hello; this is my summary for GitHub")
+I'm currently a graduate student in the career of Engineering in computer systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm from Dom. Republic. 🇩🇴
+
+I'm 20 years old.
+
+You can find more information about me at:
+
+-📸My personal [instagram](https://www.instagram.com/j.familia18/)
+
+-💼My personal [linkedin](https://www.linkedin.com/in/jos%C3%A9-ren%C3%A9-fam%C3%ADlia-41915026b/)
+
+Things I like:
+
+-Movies and series. 🍿🥤
+
+-Anime. 🏯🍙
+
+-Video game. 🎮
+
+-Sports. ⚾
