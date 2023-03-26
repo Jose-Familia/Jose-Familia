@@ -17,8 +17,8 @@
 
       🧑‍🦱 Where Else To See Me:
     
-      <p>📸 My Personal [Instagram] (https://www.instagram.com/j.familia18/)</p>
-      <p>💼My [Linkedin] (https://www.linkedin.com/in/jos%C3%A9-ren%C3%A9-fam%C3%ADlia-41915026b/)</p>
+      <p> 📸 My Personal [Instagram] (https://www.instagram.com/j.familia18/) </p>
+      <p> 💼My [Linkedin] (https://www.linkedin.com/in/jos%C3%A9-ren%C3%A9-fam%C3%ADlia-41915026b/) </p>
       
       
     
