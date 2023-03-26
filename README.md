@@ -4,9 +4,8 @@
   <h3 align="center">I am currently a student of the engineering career in computer systems, I am 20 years old and I live in Santo Domingo, Dominican Republic<h3>
 </div>
 
-Console.log("Hello")
 
-👨‍💻 About Me:
+      👨‍💻 About Me:
     
   
     <p>-I like series and movies. 🍿🥤</p>     
@@ -17,9 +16,11 @@ Console.log("Hello")
 
 
   
-  Where Else To See Me:
+      🧑‍🦱 Where Else To See Me:
     
-  📸 My Personal [Instagram](https://www.instagram.com/j.familia18/)
+      <p>📸 My Personal [Instagram](https://www.instagram.com/j.familia18/)</p>
     
-  💼My [Linkedin](https://www.linkedin.com/in/jos%C3%A9-ren%C3%A9-fam%C3%ADlia-41915026b/)
+      <p>💼My [Linkedin](https://www.linkedin.com/in/jos%C3%A9-ren%C3%A9-fam%C3%ADlia-41915026b/)</p>
+      
+      
     
