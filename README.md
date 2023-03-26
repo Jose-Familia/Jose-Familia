@@ -8,17 +8,17 @@
       👨‍💻 About Me:
     
   
-    <p>-I like series and movies. 🍿🥤</p>     
-    <p>-I like anime, manga and comics. 🏯💥</p>
-    <p>-I like sports. ⚾</p> 
-    <p>-I like the videogames. 🎮🕹️</p>
-    <p>I am currently learning HTML, CSS & JScript. </p>
+    -I like series and movies. 🍿🥤  
+    -I like anime, manga and comics. 🏯💥
+    -I like sports. ⚾
+    -I like the videogames. 🎮🕹️
+    -I am currently learning HTML, CSS & JScript. 
 
 
       🧑‍🦱 Where Else To See Me:
     
-      <p> 📸 My Personal [Instagram] (https://www.instagram.com/j.familia18/) </p>
-      <p> 💼 My [Linkedin] (https://www.linkedin.com/in/jos%C3%A9-ren%C3%A9-fam%C3%ADlia-41915026b/) </p>
+       📸 My Personal [Instagram] (https://www.instagram.com/j.familia18/) 
+       💼 My [Linkedin] (https://www.linkedin.com/in/jos%C3%A9-ren%C3%A9-fam%C3%ADlia-41915026b/) 
       
       
     
