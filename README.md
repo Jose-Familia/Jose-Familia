@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" width="300">
-    <h1 align="center">Hi, i'm Jose</h1>
+    <h1 align="center">Hi 🙋‍♂️, i'm Jose</h1>
     <h3 align="center">I am a student of engineering in computer systems.</h3>
 </div>
 
@@ -23,13 +23,22 @@
 <!--Lenguajes y herraminetas-->
 
 <div align="center">
-    <h3>Lenguages & Tools</h3>
+    <h3>🔨Lenguages & Tools🔨</h3>
     <div>
         <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/html5.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
         <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/css3.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
         <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/visualstudiocode.svg" title="VisualStudioCode" alt="VSCode" width="40" height="40"/>&nbsp;
     </div>
 </div>
+
+---
+<!--Sobre mi-->
+About Me:
+
+- I like Baseball ⚾
+- I like Video-Games 🎮
+- I like Movies, Series & anime 🧟🏯🍿
+- I am currently learning Front-End (Jscript, React.js, JQuery and bootstrap) and Java POO
 
 ---
 <!--Streaks-->
