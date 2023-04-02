@@ -29,9 +29,9 @@
 <div align="center">
     <h3>🔨Lenguages & Tools🔨</h3>
     <div>
-        <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/html5.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/css3.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/visualstudiocode.svg" title="VisualStudioCode" alt="VSCode" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" title="VisualStudioCode" alt="VSCode" width="40" height="40"/>&nbsp;
     </div>
 </div>
 
