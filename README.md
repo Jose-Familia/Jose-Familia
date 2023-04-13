@@ -24,14 +24,26 @@
 </div>
 
 ---
-<!--Lenguajes y herraminetas-->
+<!--Lenguajes-->
 
 <div align="center">
-    <h3>🔨Lenguages & Tools🔨</h3>
+    <h3>Lenguages</h3>
     <div>
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="Jscript" width="40" height="40"/>&nbsp;
+    </div>
+</div>
+
+---
+
+<!--Herramientas-->
+
+<div align="center">
+<h3>Tools</h3>
+    <div>
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" title="VisualStudioCode" alt="VSCode" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
     </div>
 </div>
 
