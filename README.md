@@ -44,10 +44,12 @@
     <div>
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" title="VisualStudioCode" alt="VSCode" width="40" height="40"/>&nbsp;
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
     </div>
 </div>
 
 ---
+
 <!--Sobre mi-->
 About Me:
 
@@ -58,6 +60,7 @@ About Me:
 - I am currently learning Front-End (Jscript, React.js, JQuery and bootstrap) and Java POO
 
 ---
+
 <!--Streaks-->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jose-Familia&theme=dark&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&type=png)](https://git.io/streak-stats) ![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jose-Familia&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Familia&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
