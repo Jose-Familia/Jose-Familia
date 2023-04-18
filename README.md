@@ -47,7 +47,6 @@
 ---
 
 <!--Sobre mi-->
-<div align="center">
 About Me:
 
 - I like Baseball ⚾
@@ -55,11 +54,11 @@ About Me:
 - I like Video-Games 🎮
 - I like Movies, Series & anime 🧟🏯🍿
 - I am currently learning Front-End (Jscript, React.js, JQuery and bootstrap) and Java POO
-</div>
+
 ---
 
 <!--Streaks-->
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jose-Familia&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Familia&layout=compact&langs_count=7&theme=radical"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Jose-Familia&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Familia&layout=compact&langs_count=7&theme=radical"/>
 
 
 
