@@ -1,65 +1,25 @@
-<!--Informacion primaria-->
+<h1 align="center">Hola 👋, soy José Familia</h1>
+<h3 align="center">Un apasionado estudiante de ingeniería en sistemas informáticos de la República Dominicana</h3>
 
-<div id="header" align="center">
-    <img src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" width="300">
-    <h1 align="center">Hi, i'm Jose</h1>
-    <h3 align="center">I am a student of engineering in computer systems.</h3>
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jose-familia&label=Profile%20views&color=0e75b6&style=flat" alt="jose-familia" /> </p>
 
-<!--Badges-->
+- 👨‍💻 Todos mis los proyectos están disponibles en [https://github.com/Jose-Familia](https://github.com/Jose-Familia)
 
-<div id="badges" align="center">
-    <a href="https://www.instagram.com/j.familia18/" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-        alt="Instagram Badge"/>
-    </a>
-    <a href="https://www.linkedin.com/in/jos%C3%A9-ren%C3%A9-fam%C3%ADlia-41915026b/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        alt="Linkedin Badge"/>
-    </a>
-    <a href="https://discord.com/channels/@me/1091477571721498675" target="_blank">
-        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"
-        alt="Discord Badge"/>
-    </a>
-</div>
+- 📫 Cómo contactarme **Familiajoserene@gmail.com**
 
----
-<!--Lenguajes-->
+- ⚡ Dato curioso * *Me gusta la comedia stand up**
 
-<div align="center">
-    <h3>Lenguages</h3>
-    <div>
-         <img src="https://skillicons.dev/icons?i=html,css,javascript"/>
-    </div>
-</div>
+<h3 align="left">Conéctate conmigo:</h3>
+<p align="left">
+<a href="https://linkedin.com/en/jose-rene-familia-41915026b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain /github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose-rene-familia-41915026b" height="30" width="40" /> </a>
+<a href="https://instagram.com/j.familia18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github -profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="j.familia18" height="30" width="40" /></a> </p>
+<
 
----
+h3 align="left">Idiomas y herramientas:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent. com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https:// www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width= "40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https:// www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3. org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt ="html5" ancho="40" altura="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://desarrollador.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/ javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel=" noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/ > </a> </p>com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www. python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python " ancho="40" altura="40"/> </a> </p>com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www. python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python " ancho="40" altura="40"/> </a> </p>com/devicons/devicon/master/icons/python/python-original.svg" alt="python" ancho="40" altura="40"/> </a> </p>com/devicons/devicon/master/icons/python/python-original.svg" alt="python" ancho="40" altura="40"/> </a> </p>
 
-<!--Herramientas-->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jose-familia&show_icons=true&locale=en&layout=compact" alt="jose- familia" /></p>
 
-<div align="center">
-<h3>Tools</h3>
-    <div>
-       <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse"/>
-    </div>
-</div>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=jose-familia&show_icons=true&locale=en" alt ="jose-familia" /></p>
 
----
-
-<!--Sobre mi-->
-About Me:
-
-- I like Baseball ⚾
-- I like Music 🎧
-- I like Video-Games 🎮
-- I like Movies, Series & anime 🧟🏯🍿
-- I am currently learning Front-End (Jscript, React.js, JQuery and bootstrap) and Java POO
-
----
-
-<!--Streaks-->
- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Jose-Familia&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Familia&layout=compact&langs_count=7&theme=radical"/>
-
-
-
-    
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jose-familia&" alt= "jose-familia" /></p>
