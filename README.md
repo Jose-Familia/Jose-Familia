@@ -18,7 +18,7 @@
 ```
 Hi, I'm Jose Familia
 -----------------------------
-🔭 I’m currently working on: My portfolio, using HTML5, CSS3 and JavaScript
+🔭 I’m currently working on: I finish my portfolio.
 👯 I’m looking to collaborate on: Projects related to Front-End and Web Design
 🌱 I’m currently learning: Learning more about JavaScript, React and Bootstrap
 💬 Ask me about: Anything related to programming
