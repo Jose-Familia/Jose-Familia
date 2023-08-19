@@ -18,11 +18,12 @@
 ```
 Hi, I'm Jose Familia
 -----------------------------
-🔭 I’m currently working on: I finish my portfolio.
+🔭 I’m currently working on: An E-Commerce (HTML, CSS, JS)
 👯 I’m looking to collaborate on: Projects related to Front-End and Web Design
 🌱 I’m currently learning: Learning more about JavaScript, React and Bootstrap
 💬 Ask me about: Anything related to programming
 ⚡ Fun fact: I like videogames, sports and I'm a fan of anime
+🫡 I'm student
 ```
 
 </div>
