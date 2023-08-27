@@ -13,7 +13,7 @@
   
 # 💫 About Me:
   
-<img align="left" src="https://github.com/Jose-Familia/Jose-Familia/assets/128924389/8258424f-a0bb-4a73-9c4f-b81cb6512831)" width="200" />
+<img align="left" src="https://github.com/Jose-Familia/Jose-Familia/assets/128924389/8258424f-a0bb-4a73-9c4f-b81cb6512831)" width="180" />
 
 ```
 Hi, I'm Jose Familia
