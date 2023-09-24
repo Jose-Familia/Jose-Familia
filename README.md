@@ -1,6 +1,5 @@
 <div align="center">
-<h1>  Hi' Im Jose Familia 
-<img src="https://media.giphy.com/media/Tgvn82bqJT36lkVqDZ/giphy.gif" width="60"> </h1>
+<h1>  Hi' Im Jose Familia</h1>
 </div>
 
 <div align="center">
