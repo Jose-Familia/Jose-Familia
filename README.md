@@ -29,7 +29,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Jose-Familia&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jose-Familia&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Familia&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Familia&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact) </br>
+[![wakatime](https://wakatime.com/badge/user/0cd8133e-4185-41c5-8f10-81ef7f31d308.svg)](https://wakatime.com/@0cd8133e-4185-41c5-8f10-81ef7f31d308)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Jose-Familia&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
