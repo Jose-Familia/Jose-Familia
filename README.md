@@ -8,8 +8,6 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Systems+Engineering+Student;Front+End++Developer;Dominican%20Republic%20&center=true&width=380&height=45"></a>
 </p>
 
-<img src="https://github.com/Jose-Familia/Jose-Familia/assets/128924389/810a03eb-1687-43e5-9629-a3f34b87d9e5389/12df3ee2-8e1a-4537-8717-e7ecbe644217">
-
 ```
 # 💫 About Me:
 🔭 I’m currently working on: ...........................
