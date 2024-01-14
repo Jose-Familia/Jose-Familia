@@ -6,7 +6,7 @@ Me = {
     role: ["Web Development", Systems Enginnering Student"],
     about: "I like the videogames, Anime, Comics, sport and the series",
     contact: {
-                linkedin: #################,
-                email: familiajoserene@gmail.com,
+                linkedin: "linkedin.com/in/jose-rene-familia-41915026b/",
+                email: "familiajoserene@gmail.com",
               }
 ```
