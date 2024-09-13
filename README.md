@@ -10,7 +10,7 @@ Actualmente estoy cursando mi carrera en **Ingeniería en Sistemas** y me encant
 - 🎓 **Carrera**: Ingeniería en Sistemas
 - 🖥 **Intereses**: Desarrollo Web, Backend, y Arquitecturas de Software
 - 🌱 **Aprendiendo**: Golang, Node.js, y patrones de diseño de software
-- 📫 **Contáctame**: [Correo](mailto:tucorreo@ejemplo.com)
+- 📫 **Contáctame**: [Correo](mailto:familiajoserene@gmail.com)
 - ⚡ **Dato curioso**: ¡Me encanta optimizar procesos y encontrar soluciones innovadoras a problemas complejos!
 
 ## 🛠 Habilidades Técnicas
@@ -29,30 +29,12 @@ Actualmente estoy cursando mi carrera en **Ingeniería en Sistemas** y me encant
 
 ## 💼 Experiencia
 
-### [Proyecto 1: Sistema de Gestión de Estudiantes]
-- **Descripción**: Una aplicación web para gestionar estudiantes, con opciones de registro, consulta y edición de datos. Desarrollada con **React.js** en el frontend y **Node.js** en el backend, usando **MongoDB** para la base de datos.
-- **Tecnologías**: React.js, Node.js, MongoDB
-- **Repositorio**: [Enlace al Proyecto](https://github.com/Jose-Familia/proyecto-gestion-estudiantes)
-
-### [Proyecto 2: API Rest en Golang]
-- **Descripción**: API Restful construida con **Golang** para gestionar una base de datos de libros, con funcionalidades CRUD (Crear, Leer, Actualizar y Eliminar).
-- **Tecnologías**: Golang, PostgreSQL
-- **Repositorio**: [Enlace al Proyecto](https://github.com/Jose-Familia/proyecto-api-golang)
 
 ## 💡 Soft Skills
 
-- **Trabajo en equipo**: Disfruto colaborar en proyectos de grupo y tengo experiencia trabajando en equipos de desarrollo donde la comunicación y la cooperación son claves.
-- **Resolución de problemas**: Me encanta enfrentar desafíos técnicos y encontrar soluciones creativas y eficientes para problemas complejos.
-- **Adaptabilidad**: Soy flexible y me adapto rápidamente a nuevas tecnologías y entornos de trabajo.
-- **Gestión del tiempo**: Estoy acostumbrado a manejar múltiples tareas y proyectos, organizando mis tiempos para cumplir con los plazos establecidos.
-- **Comunicación**: Tengo buenas habilidades de comunicación, tanto verbal como escrita, para expresar ideas y documentar procesos técnicos.
 
 ## 📚 Educación
 
-- **Ingeniería en Sistemas** - [Nombre de la Universidad]
-- **Cursos y Certificaciones**: 
-  - [Curso de Golang - Plataforma X]
-  - [Curso de Desarrollo Frontend - Plataforma Y]
 
 ## 🌱 Objetivos
 
@@ -63,18 +45,14 @@ Actualmente estoy cursando mi carrera en **Ingeniería en Sistemas** y me encant
 ## 🔗 Encuéntrame en:
 
 - [GitHub](https://github.com/Jose-Familia)
-- [LinkedIn](https://linkedin.com/in/jose-familia)
-- [Correo](mailto:tucorreo@ejemplo.com)
+- [LinkedIn](https://www.linkedin.com/in/jrfamilia/)
+- [Correo](mailto:familiajoserene@gmail.com)
 
 ## 📊 Estadísticas de GitHub
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Jose-Familia&show_icons=true&theme=radical)
 
-### ⌛ Actividad Semanal en WakaTime
-
-![Weekly Stats](https://github.com/Jose-Familia/Jose-Familia/blob/main/images/wakatime_weekly_stats.svg)
-
 ---
 
-Gracias por visitar mi repositorio CV. ¡Espero que podamos colaborar pronto!
+Gracias por visitar mi perfil. ¡Espero que podamos colaborar pronto! 👋🤍
 
