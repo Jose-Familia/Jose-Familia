@@ -72,7 +72,7 @@ Actualmente estoy cursando mi carrera en **Ingeniería en Sistemas** y me encant
 
 ### ⌛ Actividad Semanal en WakaTime
 
-![Weekly Stats](https://github.com/Jose-Familia/waka-box/blob/main/images/wakatime_weekly_stats.svg)
+![Weekly Stats](https://github.com/Jose-Familia/Jose-Familia/blob/main/images/wakatime_weekly_stats.svg)
 
 ---
 
