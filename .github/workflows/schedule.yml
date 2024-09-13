@@ -1,16 +1,32 @@
-name: Waka Readme
+name: Update WakaTime Stats
 
 on:
   schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
+    # Ejecutar el workflow todos los días a las 12:00 UTC
+    - cron: '0 12 * * *'
   workflow_dispatch:
+
 jobs:
   update-readme:
-    name: Update Readme with Metrics
     runs-on: ubuntu-latest
+
     steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
+      - uses: actions/checkout@v2
+
+      - name: Update WakaTime stats
+        uses: matchai/waka-box@master
+        env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+      - name: Commit changes
+        run: |
+          git config --local user.name "waka-box"
+          git config --local user.email "waka-box@example.com"
+          git add images/wakatime_weekly_stats.svg
+          git commit -m "Update WakaTime stats"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
