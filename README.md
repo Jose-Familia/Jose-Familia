@@ -5,13 +5,13 @@
 
 ## 🎯 Sobre Mí
 
-Actualmente estoy cursando mi carrera en **Ingeniería en Sistemas** y me encanta explorar nuevas tecnologías, participar en proyectos colaborativos y aprender constantemente sobre el mundo del desarrollo de software.
+Actualmente estoy cursando mi carrera en **Ingeniería en Sistemas** y me gusta explorar nuevas tecnologías orientadas al desarrollo web, ya sea de front o backend, asi como aprender constantemente sobre el mundo del desarrollo de software.
 
 - 🎓 **Carrera**: Ingeniería en Sistemas
 - 🖥 **Intereses**: Desarrollo Web, Backend, y Arquitecturas de Software
-- 🌱 **Aprendiendo**: Golang, Node.js, y patrones de diseño de software
+- 🌱 **Aprendiendo**: React (Next.js), Golang, Node.js (Express), Typecript y patrones de diseño de software
 - 📫 **Contáctame**: [Correo](mailto:familiajoserene@gmail.com)
-- ⚡ **Dato curioso**: ¡Me encanta optimizar procesos y encontrar soluciones innovadoras a problemas complejos!
+- ⚡ **Dato curioso**: ¡Me encanta la programacion y buscar soluciones innovadoras a problemas complejos!
 
 ## 🛠 Habilidades Técnicas
 
@@ -22,7 +22,6 @@ Actualmente estoy cursando mi carrera en **Ingeniería en Sistemas** y me encant
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -30,17 +29,18 @@ Actualmente estoy cursando mi carrera en **Ingeniería en Sistemas** y me encant
 ## 💼 Experiencia
 
 
-## 💡 Soft Skills
-
 
 ## 📚 Educación
 
+- **Ingenieria en Sistemas Computacionales** [Universidad APEC](unapec.edu.do)
+- **Cursos y Certificaciones**: 
+  - [Curso Programacion Frontend] [Alura Latam](https://app.aluracursos.com/user/Familiajoserene/fullCertificate/a3c142864461f440423656cc397e8632)
 
 ## 🌱 Objetivos
 
-- Mejorar mis habilidades en **Backend** y **DevOps**.
+- Mejorar mis habilidades en **Backend** y **Frontend**.
 - Contribuir a proyectos de código abierto.
-- Aprender más sobre **arquitectura de microservicios**.
+- Aprender más sobre **arquitectura de software**.
 
 ## 🔗 Encuéntrame en:
 
