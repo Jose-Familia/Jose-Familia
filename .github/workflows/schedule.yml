@@ -1,0 +1,32 @@
+name: Update WakaTime Stats
+
+on:
+  schedule:
+    # Actualizar las estadísticas diariamente a las 12:00 UTC
+    - cron: '0 12 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Update WakaTime stats
+        uses: matchai/waka-box@master
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
+      - name: Commit changes
+        run: |
+          git config --local user.name "waka-box"
+          git config --local user.email "waka-box@example.com"
+          git add images/wakatime_weekly_stats.svg
+          git commit -m "Update WakaTime stats"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
