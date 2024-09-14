@@ -22,7 +22,7 @@ jobs:
       run: npm install node-fetch
 
     - name: Ejecutar script para actualizar README
-      run: node scripts/update-readme.js  # Aquí se actualizó la ruta correcta
+      run: node scripts/update-readme.cjs  # Aquí se actualizó la ruta correcta
 
     - name: Commit y push de cambios
       run: |
