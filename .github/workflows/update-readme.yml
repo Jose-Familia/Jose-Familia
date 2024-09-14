@@ -22,7 +22,8 @@ jobs:
       run: npm install node-fetch
 
     - name: Ejecutar script para actualizar README
-      run: node update-readme.js
+      run: node scripts/update-readme.js
+
 
     - name: Commit y push cambios
       run: |
