@@ -5,13 +5,28 @@ async function getLatestProjects() {
     const username = 'Jose-Familia'; // Cambia por tu username de GitHub
     const url = `https://api.github.com/users/${username}/repos?sort=created&per_page=3`;
 
-    const response = await fetch(url);
+    const response = await fetch(url, {
+        headers: {
+            'Accept': 'application/vnd.github.v3+json',
+            'User-Agent': 'node-fetch'
+        }
+    });
+
+    if (!response.ok) {
+        throw new Error(`Error fetching repositories: ${response.statusText}`);
+    }
+
     const repos = await response.json();
 
     let projectSection = `## 💼 Experiencia\n\n`;
-    
+
     repos.forEach(repo => {
-        projectSection += `- **${repo.name}**: ${repo.description || 'Sin descripción'}\n  - **Tecnologías**: ${repo.language || 'No especificada'}\n\n`;
+        if (!repo.fork) { // Excluir proyectos que son forks
+            // Obtén las tecnologías utilizadas en el repositorio
+            projectSection += `- **${repo.name}**: ${repo.description || 'Sin descripción'}\n`;
+            projectSection += `  - **Tecnologías**: ${repo.language || 'No especificada'}\n`;
+            projectSection += `  - **URL**: [${repo.html_url}](${repo.html_url})\n\n`;
+        }
     });
 
     // Lee el README.md existente
@@ -24,4 +39,6 @@ async function getLatestProjects() {
     fs.writeFileSync('README.md', updatedReadme);
 }
 
-getLatestProjects();
+getLatestProjects().catch(error => {
+    console.error('Error updating README:', error);
+});
