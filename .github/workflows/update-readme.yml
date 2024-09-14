@@ -22,10 +22,9 @@ jobs:
       run: npm install node-fetch
 
     - name: Ejecutar script para actualizar README
-      run: node scripts/update-readme.js
+      run: node scripts/update-readme.js  # Aquí se actualizó la ruta correcta
 
-
-    - name: Commit y push cambios
+    - name: Commit y push de cambios
       run: |
         git config --global user.name 'Jose Familia'
         git config --global user.email 'familiajoserene@gmail.com'
