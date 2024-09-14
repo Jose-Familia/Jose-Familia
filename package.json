@@ -1,0 +1,14 @@
+{
+  "name": "jose-familia",
+  "version": "1.0.0",
+  "description": "¡Hola! Soy **José Familia**, un estudiante de Ingeniería en Sistemas apasionado por el desarrollo de software y la tecnología. Este repositorio sirve como mi CV interactivo, donde puedes explorar mis proyectos, habilidades, y experiencia en áreas como **Frontend**, **Bases de Datos**, **Golang**, y **Node.js**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
