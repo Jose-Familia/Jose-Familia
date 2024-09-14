@@ -35,4 +35,4 @@ jobs:
         git commit -m 'Actualizar README con los últimos proyectos'
         git push
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Asegúrate de que este secreto esté configurado en los Secrets del repositorio
+        GITHUB_TOKEN: ${{ secrets.TOKEN }}  # Asegúrate de que este secreto esté configurado en los Secrets del repositorio
