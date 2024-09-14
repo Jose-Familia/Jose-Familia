@@ -28,7 +28,14 @@ Actualmente estoy cursando mi carrera en **Ingeniería en Sistemas** y me gusta 
 
 ## 💼 Experiencia
 
+- **Books_Crud**: Sin descripción
+  - **Tecnologías**: Go
 
+- **waka-box**: 📊 Update a pinned gist to contain your weekly WakaTime stats
+  - **Tecnologías**: No especificada
+
+- **Portfolio**: Sin descripción
+  - **Tecnologías**: TypeScript
 
 ## 📚 Educación
 
