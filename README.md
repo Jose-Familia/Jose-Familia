@@ -28,11 +28,11 @@ Actualmente estoy cursando mi carrera en **Ingeniería en Sistemas** y me gusta 
 
 ## 💼 Experiencia
 
-- **Books_Crud**: Sin descripción
+- **Books_Crud**: Crud de libros con Go, Gorm (ORM) y PostgreSQL
   - **Tecnologías**: Go
   - **URL**: [https://github.com/Jose-Familia/Books_Crud](https://github.com/Jose-Familia/Books_Crud)
 
-- **Portfolio**: Sin descripción
+- **Portfolio**: Personal portfolio
   - **Tecnologías**: TypeScript
   - **URL**: [https://github.com/Jose-Familia/Portfolio](https://github.com/Jose-Familia/Portfolio)
 
