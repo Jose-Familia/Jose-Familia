@@ -2,9 +2,9 @@ require('dotenv').config();
 const fetch = require('node-fetch');
 const fs = require('fs');
 
-const WAKATIME_USER_ID = 'Jose_Familia'; // Sin '@'
-
 async function getLanguageStats() {
+    const WAKATIME_API_KEY = process.env.WAKATIME_API_KEY;
+    const WAKATIME_USER_ID = 'JoseFamilia'; 
     const url = `https://wakatime.com/api/v1/users/${WAKATIME_USER_ID}/stats/last_7_days`;
 
     const response = await fetch(url, {
