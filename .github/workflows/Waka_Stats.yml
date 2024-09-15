@@ -1,9 +1,9 @@
-name: Update README
+name: Update README with Wakatime Stats
 
 on:
-  workflow_dispatch:
+  workflow_dispatch: # Permite ejecutar el workflow manualmente
   schedule:
-    - cron: '0 0 * * 0'  # Ejecutar cada domingo a la medianoche (UTC)
+    - cron: "0 0 * * *" # Ejecuta el workflow cada día a la medianoche
 
 jobs:
   update-readme:
@@ -19,11 +19,18 @@ jobs:
         node-version: '16'
 
     - name: Install Dependencies
-      run: npm install node-fetch dotenv
+      run: npm install
 
-    - name: Update README
-      run: node scripts/update-readme.cjs
+    - name: Run Update Script
+      run: node update-readme.cjs
+
+    - name: Commit and Push changes
+      run: |
+        git config --global user.name "Jose Familia"
+        git config --global user.email "Familiajoserene@gmail.com"
+        git add README.md
+        git commit -m "Update README with Wakatime stats"
+        git push
       env:
-        WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-        WAKATIME_USER_ID: ${{ secrets.WAKATIME_USER_ID }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
