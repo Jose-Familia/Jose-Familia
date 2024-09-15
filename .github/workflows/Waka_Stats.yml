@@ -1,36 +1,29 @@
-name: Update README with Wakatime Stats
+name: Update README
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: '0 0 * * 0'  # Ejecuta cada domingo a las 00:00 UTC
-  workflow_dispatch:  # Permite ejecutar manualmente
+    - cron: '0 0 * * 0'  # Ejecutar cada domingo a la medianoche (UTC)
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
+    - name: Checkout Repository
+      uses: actions/checkout@v2
 
     - name: Set up Node.js
-      uses: actions/setup-node@v3
+      uses: actions/setup-node@v2
       with:
         node-version: '16'
 
-    - name: Install dependencies
-      run: npm install
+    - name: Install Dependencies
+      run: npm install node-fetch dotenv
 
-    - name: Run update script
-      env:
-        WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}  # Carga el secreto de GitHub
+    - name: Update README
       run: node scripts/update-readme.cjs
-
-    - name: Commit and push changes
-      uses: EndBug/add-and-commit@v9
-      with:
-        add: 'README.md'
-        message: 'Update README with latest Wakatime stats'
-        author_name: 'github-actions'
-        author_email: 'github-actions@github.com'
+      env:
+        WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        WAKATIME_USER_ID: ${{ secrets.WAKATIME_USER_ID }}
 
