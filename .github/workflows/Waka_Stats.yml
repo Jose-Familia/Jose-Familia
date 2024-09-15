@@ -26,8 +26,8 @@ jobs:
 
     - name: Commit and Push changes
       run: |
-        git config --global user.name "Jose Familia"
-        git config --global user.email "Familiajoserene@gmail.com"
+        git config --global user.name 'Jose Familia'
+        git config --global user.email 'familiajoserene@gmail.com'
         git add README.md
         git status
         if ! git diff-index --quiet HEAD; then
