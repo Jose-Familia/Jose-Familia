@@ -3,7 +3,7 @@ name: Update Wakatime Stats
 on:
   schedule:
     - cron: '0 0 * * *'  # Runs every day at midnight
-  workflow_dispatch:
+  workflow_dispatch: 
 
 jobs:
   update-readme:
@@ -11,17 +11,15 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Fetch Wakatime stats
-      uses: jsmrcaga/action-wakatime-stats@v1.0.0
-      with:
-        wakatime-api-key: ${{ secrets.WAKATIME_API_KEY }}
-        output_file: STATS.md  # Temporary stats file
+      run: |
+        curl -H "Authorization: Bearer ${{ secrets.WAKATIME_API_KEY }}" https://wakatime.com/api/v1/users/current/stats/last_7_days > STATS.json
+    - name: Generate Markdown stats
+      run: |
+        echo '## Wakatime Weekly Stats' > STATS.md
+        jq -r '.data.languages[] | "| \(.name) | \(.text) | \(.percent)\%"' STATS.json >> STATS.md
     - name: Update README
       run: |
-        sed -i '/<!-- wakatime-stats-start -->/,/<!-- wakatime-stats-end -->/{
-            /<!-- wakatime-stats-start -->/!d; x; s/.*//; x;
-            /<!-- wakatime-stats-end -->/!d; G
-        }' README.md
-        cat STATS.md >> README.md
+        sed -i '/<!-- wakatime-stats-start -->/,/<!-- wakatime-stats-end -->/c\<!-- wakatime-stats-start -->\n$(cat STATS.md)\n<!-- wakatime-stats-end -->' README.md
     - name: Commit and push
       uses: EndBug/add-and-commit@v7
       with:
