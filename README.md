@@ -67,7 +67,8 @@ Actualmente estoy cursando mi carrera en **Ingeniería en Sistemas** y me gusta 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Jose-Familia&show_icons=true&theme=radical)
 
 <!-- wakatime-stats-start -->
-$(cat STATS.md)
+## Wakatime Weekly Stats
+No language data available.
 <!-- wakatime-stats-end -->
 
 ---
