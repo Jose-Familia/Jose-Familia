@@ -3,7 +3,7 @@ const fetch = require('node-fetch');
 const fs = require('fs');
 
 // Reemplaza con tu ID de usuario Wakatime
-const WAKATIME_USER_ID = 'YOUR_USER_ID'; // Cambia 'YOUR_USER_ID' a tu ID real de Wakatime
+const WAKATIME_USER_ID = 'Jose Familia'; // Cambia 'YOUR_USER_ID' a tu ID real de Wakatime
 
 async function getLanguageStats() {
     const url = `https://wakatime.com/api/v1/users/${WAKATIME_USER_ID}/stats/last_7_days`;
