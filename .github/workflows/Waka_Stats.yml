@@ -24,7 +24,7 @@ jobs:
     - name: Run update script
       env:
         WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}  # Carga el secreto de GitHub
-      run: node update-readme.cjs
+      run: node scripts/update-readme.cjs
 
     - name: Commit and push changes
       uses: EndBug/add-and-commit@v9
