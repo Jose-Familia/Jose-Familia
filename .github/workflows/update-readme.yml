@@ -24,15 +24,12 @@ jobs:
     - name: Ejecutar script para actualizar README
       run: node scripts/update-readme.cjs  # Aquí se actualizó la ruta correcta
 
-    - name: Configurar usuario de Git
+    - name: Commit y push de cambios
       run: |
         git config --global user.name 'Jose Familia'
         git config --global user.email 'familiajoserene@gmail.com'
-
-    - name: Commit y push de cambios
-      run: |
         git add README.md
         git commit -m 'Actualizar README con los últimos proyectos'
         git push
       env:
-        GITHUB_TOKEN: ${{ secrets.TOKEN }}  # Asegúrate de que este secreto esté configurado en los Secrets del repositorio
+        GITHUB_TOKEN: ${{ secrets.token }}
