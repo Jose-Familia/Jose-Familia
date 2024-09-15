@@ -29,7 +29,7 @@ jobs:
         git config --global user.name 'Jose Familia'
         git config --global user.email 'familiajoserene@gmail.com'
         git add README.md
-        git commit -m 'Actualizar README con los últimos proyectos'
+        git commit --only README.md -m 'Actualizar README con los últimos proyectos'
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.token }}
