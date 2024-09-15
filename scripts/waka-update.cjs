@@ -1,4 +1,3 @@
-require('dotenv').config();
 const fetch = require('node-fetch');
 const fs = require('fs');
 
@@ -7,9 +6,12 @@ const WAKATIME_USER_ID = '@Jose_Familia';
 async function getLanguageStats() {
     const url = `https://wakatime.com/api/v1/users/${WAKATIME_USER_ID}/stats/last_7_days`;
 
+    // Usa la API Key del entorno, que será proporcionada en el workflow
+    const apiKey = process.env.WAKATIME_API_KEY;
+
     const response = await fetch(url, {
         headers: {
-            'Authorization': `Bearer ${process.env.WAKATIME_API_KEY}`
+            'Authorization': `Bearer ${apiKey}`
         }
     });
 
