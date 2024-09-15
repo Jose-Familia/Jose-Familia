@@ -29,8 +29,13 @@ jobs:
         git config --global user.name "Jose Familia"
         git config --global user.email "Familiajoserene@gmail.com"
         git add README.md
-        git commit -m "Update README with Wakatime stats"
-        git push
+        git status
+        if ! git diff-index --quiet HEAD; then
+          git commit -m "Update README with Wakatime stats"
+          git push
+        else
+          echo "No changes to commit"
+        fi
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
