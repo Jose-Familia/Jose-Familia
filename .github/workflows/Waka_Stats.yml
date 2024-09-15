@@ -1,41 +1,17 @@
-name: Update README with Wakatime Stats
+name: Waka Readme
 
 on:
-  workflow_dispatch: # Permite ejecutar el workflow manualmente
   schedule:
-    - cron: "0 0 * * *" # Ejecuta el workflow cada día a la medianoche
-
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+  workflow_dispatch:
 jobs:
   update-readme:
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout Repository
-      uses: actions/checkout@v2
-
-    - name: Set up Node.js
-      uses: actions/setup-node@v2
-      with:
-        node-version: '16'
-
-    - name: Install Dependencies
-      run: npm install
-
-    - name: Run Update Script
-      run: node scripts/update-readme.cjs
-
-    - name: Commit and Push changes
-      run: |
-        git config --global user.name 'Jose Familia'
-        git config --global user.email 'familiajoserene@gmail.com'
-        git add README.md
-        git status
-        if ! git diff-index --quiet HEAD; then
-          git commit -m "Update README with Wakatime stats"
-          git push
-        else
-          echo "No changes to commit"
-        fi
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.TOKEN }} 
 
