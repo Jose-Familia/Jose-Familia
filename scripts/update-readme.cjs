@@ -4,7 +4,7 @@ const fs = require('fs');
 
 async function getLanguageStats() {
     const WAKATIME_API_KEY = process.env.WAKATIME_API_KEY;
-    const WAKATIME_USER_ID = 'JoseFamilia'; 
+    const WAKATIME_USER_ID = 'Jose_Familia'; 
     const url = `https://wakatime.com/api/v1/users/${WAKATIME_USER_ID}/stats/last_7_days`;
 
     const response = await fetch(url, {
