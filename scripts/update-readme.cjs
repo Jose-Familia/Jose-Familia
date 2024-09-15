@@ -21,6 +21,8 @@ async function getLanguageStats() {
 
     const data = await response.json();
 
+    console.log('Wakatime data:', data); // Para verificar los datos
+
     return data.data.languages.map(lang => ({
         name: lang.name,
         time: lang.total_seconds,
@@ -30,8 +32,8 @@ async function getLanguageStats() {
 
 // Obtener los proyectos más recientes de GitHub
 async function getLatestProjects() {
-    const username = 'Jose-Familia'; // Cambia por tu username de GitHub
-    const url = `https://api.github.com/users/${username}/repos?sort=created&per_page=100`; // Obtén más repos para el análisis
+    const username = 'Jose-Familia'; 
+    const url = `https://api.github.com/users/${username}/repos?sort=created&per_page=100`;
 
     const response = await fetch(url, {
         headers: {
@@ -45,6 +47,7 @@ async function getLatestProjects() {
     }
 
     const repos = await response.json();
+    console.log('GitHub repos data:', repos); // Para verificar los datos
 
     // Filtrar repos que no son forks
     const nonForkRepos = repos.filter(repo => !repo.fork);
@@ -55,7 +58,6 @@ async function getLatestProjects() {
     // Encontrar el repositorio con más estrellas
     const repoWithMostStars = nonForkRepos.reduce((max, repo) => (repo.stargazers_count > max.stargazers_count ? repo : max), nonForkRepos[0]);
 
-    // Evitar duplicados si el repositorio con más estrellas ya está en los proyectos más recientes
     if (!latestProjects.some(repo => repo.id === repoWithMostStars.id)) {
         latestProjects.push(repoWithMostStars);
     }
@@ -89,15 +91,17 @@ async function updateReadme() {
         projectSection += `  - **URL**: [${repo.html_url}](${repo.html_url})\n\n`;
     });
 
-    // Lee el README.md existente
     let readmeContent = fs.readFileSync('README.md', 'utf8');
+
+    console.log('Old README:', readmeContent); // Imprimir el contenido del README antes de la modificación
 
     // Reemplaza la sección de Wakatime y la de experiencia
     const updatedReadme = readmeContent
         .replace(/## 📊 Estadísticas de GitHub[\s\S]*?(?=## 📚 Educación)/, languageSection)
         .replace(/## 💼 Experiencia[\s\S]*?(?=## 📚 Educación)/, projectSection);
 
-    // Escribe el nuevo contenido en el README.md
+    console.log('New README:', updatedReadme); // Verificar cómo se verá el nuevo README
+
     fs.writeFileSync('README.md', updatedReadme);
 }
 
