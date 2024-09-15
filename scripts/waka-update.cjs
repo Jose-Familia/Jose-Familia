@@ -2,15 +2,15 @@ require('dotenv').config();
 const fetch = require('node-fetch');
 const fs = require('fs');
 
-// Reemplaza con tu ID de usuario Wakatime
-const WAKATIME_USER_ID = 'Jose Familia'; // Cambia 'YOUR_USER_ID' a tu ID real de Wakatime
+const WAKATIME_API_KEY = 'waka_55be7504-b786-4f36-b882-486200b27254';
+const WAKATIME_USER_ID = 'Jose Familia'; 
 
 async function getLanguageStats() {
     const url = `https://wakatime.com/api/v1/users/${WAKATIME_USER_ID}/stats/last_7_days`;
 
     const response = await fetch(url, {
         headers: {
-            'Authorization': `Bearer ${process.env.WAKATIME_API_KEY}`
+            'Authorization': `Bearer ${WAKATIME_API_KEY}`
         }
     });
 
