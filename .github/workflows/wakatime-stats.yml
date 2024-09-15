@@ -16,7 +16,7 @@ jobs:
     - name: Generate Markdown stats
       run: |
         echo '## Wakatime Weekly Stats' > STATS.md
-        jq -r '.data.languages[] | "| \(.name) | \(.text) | \(.percent)\%"' README.json >> README.md
+        jq -r '.data.languages[] | "| \(.name) | \(.text) | \(.percent)%"' STATS.json >> STATS.md
     - name: Update README
       run: |
         sed -i '/<!-- wakatime-stats-start -->/,/<!-- wakatime-stats-end -->/c\<!-- wakatime-stats-start -->\n$(cat STATS.md)\n<!-- wakatime-stats-end -->' README.md
