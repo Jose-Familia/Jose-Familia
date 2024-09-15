@@ -3,7 +3,6 @@ name: Update Wakatime Stats
 on:
   schedule:
     - cron: '0 0 * * *'  # Runs every day at midnight
-  workflow_dispatch: 
 
 jobs:
   update-readme:
@@ -13,10 +12,16 @@ jobs:
     - name: Fetch Wakatime stats
       run: |
         curl -H "Authorization: Bearer ${{ secrets.WAKATIME_API_KEY }}" https://wakatime.com/api/v1/users/current/stats/last_7_days > STATS.json
+    - name: Print STATS.json
+      run: cat STATS.json
     - name: Generate Markdown stats
       run: |
         echo '## Wakatime Weekly Stats' > STATS.md
-        jq -r '.data.languages[] | "| \(.name) | \(.text) | \(.percent)%"' STATS.json >> STATS.md
+        if jq -e '.data.languages' STATS.json > /dev/null; then
+          jq -r '.data.languages[] | "| \(.name) | \(.text) | \(.percent)%"' STATS.json >> STATS.md
+        else
+          echo 'No language data available.' >> STATS.md
+        fi
     - name: Update README
       run: |
         sed -i '/<!-- wakatime-stats-start -->/,/<!-- wakatime-stats-end -->/c\<!-- wakatime-stats-start -->\n$(cat STATS.md)\n<!-- wakatime-stats-end -->' README.md
