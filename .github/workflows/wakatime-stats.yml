@@ -25,7 +25,10 @@ jobs:
         fi
     - name: Update README
       run: |
-        sed -i '/<!-- wakatime-stats-start -->/,/<!-- wakatime-stats-end -->/c\<!-- wakatime-stats-start -->\n$(cat STATS.md)\n<!-- wakatime-stats-end -->' README.md
+        # Get the current content for the wakatime stats section
+        STATS_CONTENT=$(cat STATS.md)
+        # Use awk to replace the wakatime stats section in the README
+        awk -v r="$STATS_CONTENT" '/<!-- wakatime-stats-start -->/{print;print r;f=1} /<!-- wakatime-stats-end -->/{f=0} !f' README.md > README.tmp && mv README.tmp README.md
     - name: Commit and push
       uses: EndBug/add-and-commit@v7
       with:
