@@ -22,14 +22,14 @@ jobs:
       run: npm install node-fetch
 
     - name: Ejecutar script para actualizar README
-      run: node scripts/update-readme.cjs  # Aquí se actualizó la ruta correcta
+      run: node scripts/update-readme.cjs 
 
     - name: Commit y push de cambios
       run: |
         git config --global user.name 'Jose Familia'
         git config --global user.email 'familiajoserene@gmail.com'
         git add README.md
-        git commit -am 'Actualizar README con los últimos proyectos'
+        git diff --cached --quiet || git commit -m 'Actualizar README con los últimos proyectos'
         git push
       env:
-        GITHUB_TOKEN: ${{ secrets.token }}
+        GITHUB_TOKEN: ${{ secrets.TOKEN }}
