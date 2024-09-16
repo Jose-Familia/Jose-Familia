@@ -18,7 +18,7 @@ jobs:
     - name: Generate Markdown stats
       run: |
         echo '## Wakatime Weekly Stats' > STATS.md
-        if jq -e '.data.languages' STATS.json > /dev/null; then
+        if jq -e '.data.languages | length > 0' STATS.json > /dev/null; then
           jq -r '.data.languages[] | "| \(.name) | \(.text) | \(.percent)%"' STATS.json >> STATS.md
         else
           echo 'No language data available.' >> STATS.md
