@@ -40,10 +40,6 @@ Actualmente estoy cursando mi carrera en **Ingeniería en Sistemas** y me gusta 
   - **Tecnologías**: HTML
   - **URL**: [https://github.com/Jose-Familia/Single-CV](https://github.com/Jose-Familia/Single-CV)
 
-- **alurageek**: E-commerce  Alurageek to Alura latam
-  - **Tecnologías**: HTML
-  - **URL**: [https://github.com/Jose-Familia/alurageek](https://github.com/Jose-Familia/alurageek)
-
 ## 📚 Educación
 
 - **Ingenieria en Sistemas Computacionales** [Universidad APEC](unapec.edu.do)
