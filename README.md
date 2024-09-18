@@ -46,6 +46,11 @@ Actualmente estoy cursando mi carrera en **Ingeniería en Sistemas** y me gusta 
 - **Cursos y Certificaciones**: 
   - [Curso Programacion Frontend] [Alura Latam](https://app.aluracursos.com/user/Familiajoserene/fullCertificate/a3c142864461f440423656cc397e8632)
 
+## 🤝 Contribuciones y badges
+
+- **Hacktober Fest 2023** [Badge](https://www.holopin.io/userbadge/cm15klvju35030cmmxfh301gc)
+- **GitHub Universe 2023 Cloud Skills Challenge** [Badge](https://learn.microsoft.com/api/achievements/share/es-es/JoseFamilia-0966/WA4YTS3N?sharingId=7C7093112995AB10)
+
 ## 🌱 Objetivos
 
 - Mejorar mis habilidades en **Backend** y **Frontend**.
