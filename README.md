@@ -44,7 +44,7 @@ Actualmente estoy cursando mi carrera en **Ingeniería en Sistemas** y me gusta 
 
 - **Ingenieria en Sistemas Computacionales** [Universidad APEC](unapec.edu.do)
 - **Cursos y Certificaciones**: 
-  - [Curso Programacion Frontend] [Alura Latam](https://app.aluracursos.com/user/Familiajoserene/fullCertificate/a3c142864461f440423656cc397e8632)
+  - Curso Programacion Frontend [Alura Latam](https://app.aluracursos.com/user/Familiajoserene/fullCertificate/a3c142864461f440423656cc397e8632)
 
 ## 🤝 Contribuciones y badges
 
