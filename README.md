@@ -28,6 +28,10 @@ Actualmente estoy cursando mi carrera en **Ingeniería en Sistemas** y me gusta 
 
 ## 💼 Experiencia
 
+- **MERM-Frontend**: Sin descripción
+  - **Tecnologías**: JavaScript
+  - **URL**: [https://github.com/Jose-Familia/MERM-Frontend](https://github.com/Jose-Familia/MERM-Frontend)
+
 - **Books_Crud**: Crud de libros con Go, Gorm (ORM) y PostgreSQL
   - **Tecnologías**: Go
   - **URL**: [https://github.com/Jose-Familia/Books_Crud](https://github.com/Jose-Familia/Books_Crud)
@@ -35,10 +39,6 @@ Actualmente estoy cursando mi carrera en **Ingeniería en Sistemas** y me gusta 
 - **Portfolio**: Personal portfolio
   - **Tecnologías**: TypeScript
   - **URL**: [https://github.com/Jose-Familia/Portfolio](https://github.com/Jose-Familia/Portfolio)
-
-- **Single-CV**: Sin descripción
-  - **Tecnologías**: HTML
-  - **URL**: [https://github.com/Jose-Familia/Single-CV](https://github.com/Jose-Familia/Single-CV)
 
 ## 📚 Educación
 
