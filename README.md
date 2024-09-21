@@ -28,6 +28,10 @@ Actualmente estoy cursando mi carrera en **Ingeniería en Sistemas** y me gusta 
 
 ## 💼 Experiencia
 
+- **Prisma-Users-API**: Sin descripción
+  - **Tecnologías**: JavaScript
+  - **URL**: [https://github.com/Jose-Familia/Prisma-Users-API](https://github.com/Jose-Familia/Prisma-Users-API)
+
 - **MERM-Frontend**: Sin descripción
   - **Tecnologías**: JavaScript
   - **URL**: [https://github.com/Jose-Familia/MERM-Frontend](https://github.com/Jose-Familia/MERM-Frontend)
@@ -35,10 +39,6 @@ Actualmente estoy cursando mi carrera en **Ingeniería en Sistemas** y me gusta 
 - **Books_Crud**: Crud de libros con Go, Gorm (ORM) y PostgreSQL
   - **Tecnologías**: Go
   - **URL**: [https://github.com/Jose-Familia/Books_Crud](https://github.com/Jose-Familia/Books_Crud)
-
-- **Portfolio**: Personal portfolio
-  - **Tecnologías**: TypeScript
-  - **URL**: [https://github.com/Jose-Familia/Portfolio](https://github.com/Jose-Familia/Portfolio)
 
 ## 📚 Educación
 
