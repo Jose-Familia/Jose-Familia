@@ -40,6 +40,8 @@ Actualmente estoy cursando mi carrera en **Ingeniería en Sistemas** y me gusta 
   - **Tecnologías**: Go
   - **URL**: [https://github.com/Jose-Familia/Books_Crud](https://github.com/Jose-Familia/Books_Crud)
 
+- **Mi Portfolio**: [portfolio-josefamilia.vercel.app](https://portfolio-josefamilia.vercel.app/)
+
 ## 📚 Educación
 
 - **Ingenieria en Sistemas Computacionales** [Universidad APEC](unapec.edu.do)
