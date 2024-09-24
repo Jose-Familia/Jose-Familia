@@ -1,4 +1,3 @@
-
 const fetch = require('node-fetch');
 const fs = require('fs');
 
@@ -33,6 +32,7 @@ async function getLatestProjects() {
         latestProjects.push(repoWithMostStars);
     }
 
+    // Sección de experiencia con link al portfolio
     let projectSection = `## 💼 Experiencia\n\n`;
 
     latestProjects.forEach(repo => {
@@ -40,6 +40,9 @@ async function getLatestProjects() {
         projectSection += `  - **Tecnologías**: ${repo.language || 'No especificada'}\n`;
         projectSection += `  - **URL**: [${repo.html_url}](${repo.html_url})\n\n`;
     });
+
+    // Añadir el link al portfolio
+    projectSection += `- **Mi Portfolio**: [portfolio-josefamilia.vercel.app](https://portfolio-josefamilia.vercel.app/)\n\n`;
 
     // Lee el README.md existente
     let readmeContent = fs.readFileSync('README.md', 'utf8');
