@@ -70,6 +70,24 @@ Actualmente estoy cursando mi carrera en **Ingeniería en Sistemas** y me gusta 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Jose-Familia&show_icons=true&theme=radical)
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 14 April 2023 - To: 27 September 2024
+
+Total Time: 212 hrs 10 mins
+
+HTML                       55 hrs 9 mins   >>>>>>-------------------   25.74 %
+JavaScript                 38 hrs 16 mins  >>>>---------------------   17.86 %
+CSS                        32 hrs 28 mins  >>>>---------------------   15.15 %
+TypeScript                 28 hrs 50 mins  >>>----------------------   13.46 %
+Astro                      16 hrs 45 mins  >>-----------------------   07.82 %
+JSON                       8 hrs 40 mins   >------------------------   04.05 %
+Python                     5 hrs 25 mins   >------------------------   02.53 %
+YAML                       5 hrs 16 mins   >------------------------   02.46 %
+Markdown                   4 hrs 49 mins   >------------------------   02.25 %
+Bash                       2 hrs 48 mins   -------------------------   01.31 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
