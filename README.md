@@ -65,9 +65,12 @@ Actualmente estoy cursando mi carrera en **Ingeniería en Sistemas** y me gusta 
 - [LinkedIn](https://www.linkedin.com/in/jrfamilia/)
 - [Correo](mailto:familiajoserene@gmail.com)
 
-## 📊 Estadísticas de GitHub
+## 📊 Estadísticas
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Jose-Familia&show_icons=true&theme=radical)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
