@@ -76,11 +76,11 @@ From: 20 September 2024 - To: 27 September 2024
 
 Total Time: 7 hrs 45 mins
 
-TypeScript   5 hrs 24 mins   ░░░░░░░░░░░░░░░░░████████   69.66 %
-Astro        2 hrs 2 mins    ░░░░░░░██████████████████   26.33 %
-JSON         15 mins         ░████████████████████████   03.39 %
-JavaScript   2 mins          █████████████████████████   00.50 %
-CSS          0 secs          █████████████████████████   00.10 %
+TypeScript   5 hrs 24 mins   █████████████████░░░░░░░░   69.66 %
+Astro        2 hrs 2 mins    ███████░░░░░░░░░░░░░░░░░░   26.33 %
+JSON         15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
+JavaScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
