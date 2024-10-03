@@ -42,7 +42,7 @@ async function getLatestProjects() {
     });
 
     // Añadir el link al portfolio
-    projectSection += `- **Mi Portfolio**: [portfolio-josefamilia.vercel.app](https://portfolio-josefamilia.vercel.app/)\n\n`;
+    projectSection += `- **Mi Portfolio**: [portfolio-josefamilia.vercel.app](https://josefamilia.me/)\n\n`;
 
     // Lee el README.md existente
     let readmeContent = fs.readFileSync('README.md', 'utf8');
