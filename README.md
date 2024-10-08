@@ -72,14 +72,13 @@ Actualmente estoy cursando mi carrera en **Ingeniería en Sistemas** y me gusta 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 September 2024 - To: 06 October 2024
+From: 30 September 2024 - To: 07 October 2024
 
-Total Time: 58 mins
+Total Time: 43 mins
 
-TypeScript   20 mins         █████████░░░░░░░░░░░░░░░░   34.08 %
-Astro        16 mins         ███████░░░░░░░░░░░░░░░░░░   28.49 %
-JavaScript   11 mins         █████░░░░░░░░░░░░░░░░░░░░   20.02 %
-Markdown     2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
+TypeScript   20 mins         ████████████░░░░░░░░░░░░░   46.13 %
+Astro        16 mins         ██████████░░░░░░░░░░░░░░░   38.56 %
+Markdown     2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
 ```
 
 <!--END_SECTION:waka-->
