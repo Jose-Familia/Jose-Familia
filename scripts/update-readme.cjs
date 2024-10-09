@@ -22,18 +22,18 @@ async function getLatestProjects() {
 
     let projectSection = `## 💼 Experiencia\n\n`;
 
-    // Generar tarjetas en filas de dos columnas
+    // Generar las tarjetas en bloques de dos
     latestProjects.forEach((repo, index) => {
-        if (index % 2 === 0) projectSection += `<div>\n`; // Comienza la fila
+        if (index % 2 === 0) projectSection += `<div>\n`; // Inicia el bloque de dos
         projectSection += `
             <a href="${repo.html_url}">
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=${username}&repo=${repo.name}" alt="${repo.name} card" />
             </a>
         `;
-        if (index % 2 === 1 || index === latestProjects.length - 1) projectSection += `</div>\n`; // Cierra la fila
+        if (index % 2 === 1 || index === latestProjects.length - 1) projectSection += `</div>\n`; // Cierra el bloque de dos
     });
 
-    // Añade el enlace al portafolio como última tarjeta
+    // Añadir el portafolio en una fila separada
     projectSection += `
         <div>
             <a href="https://josefamilia.me/">
@@ -47,10 +47,6 @@ async function getLatestProjects() {
 
     fs.writeFileSync('README.md', updatedReadme);
 }
-
-getLatestProjects().catch(error => {
-    console.error('Error updating README:', error);
-});
 
 getLatestProjects().catch(error => {
     console.error('Error updating README:', error);
