@@ -20,14 +20,17 @@ async function getLatestProjects() {
     const nonForkRepos = repos.filter(repo => !repo.fork);
     const latestProjects = nonForkRepos.slice(0, 3);
 
-    let projectSection = `## 💼 Experiencia\n\n<div style="display: inline-block; width: calc(50% - 10px); margin-bottom: 20px;">\n`;
+    let projectSection = `## 💼 Experiencia\n\n<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">\n`;
 
     // Generar tarjetas en formato de div
-    latestProjects.forEach(repo => {
-        projectSection += `<div style="display: inline-block; width: calc(50% - 10px); margin-bottom: 20px;"><a href="${repo.html_url}"><img src="https://github-readme-stats.vercel.app/api/pin/?username=${username}&repo=${repo.name}" alt="${repo.name} card" style="width: 100%; height: auto;" /></a></div>\n`;
+    latestProjects.forEach((repo, index) => {
+        projectSection += `<div style="width: calc(50% - 10px); margin-bottom: 20px;"><a href="${repo.html_url}"><img src="https://github-readme-stats.vercel.app/api/pin/?username=${username}&repo=${repo.name}" alt="${repo.name} card" style="width: 100%; height: auto;" /></a></div>\n`;
+        if ((index + 1) % 2 === 0) {
+            projectSection += `<div style="width: 100%; height: 20px;"></div>\n`;
+        }
     });
 
-    projectSection += `<div style="display: inline-block; width: calc(50% - 10px); margin-bottom: 20px;"><a href="https://josefamilia.me/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=${username}&repo=portfolio" alt="Portfolio card" style="width: 100%; height: auto;" /></a></div>\n`;
+    projectSection += `<div style="width: calc(50% - 10px); margin-bottom: 20px;"><a href="https://josefamilia.me/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=${username}&repo=portfolio" alt="Portfolio card" style="width: 100%; height: auto;" /></a></div>\n`;
 
     projectSection += `</div>\n\n`;
 
