@@ -28,30 +28,21 @@ Actualmente estoy cursando mi carrera en **Ingeniería en Sistemas** y me gusta 
 
 ## 💼 Experiencia
 
-<div>
+- **Prisma-Users-API**: Sin descripción
+  - **Tecnologías**: JavaScript
+  - **URL**: [https://github.com/Jose-Familia/Prisma-Users-API](https://github.com/Jose-Familia/Prisma-Users-API)
 
-            <a href="https://github.com/Jose-Familia/Prisma-Users-API">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-Familia&repo=Prisma-Users-API" alt="Prisma-Users-API card" />
-            </a>
-        
-            <a href="https://github.com/Jose-Familia/MERM-Frontend">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-Familia&repo=MERM-Frontend" alt="MERM-Frontend card" />
-            </a>
-        </div>
-<div>
+- **MERM-Frontend**: Sin descripción
+  - **Tecnologías**: JavaScript
+  - **URL**: [https://github.com/Jose-Familia/MERM-Frontend](https://github.com/Jose-Familia/MERM-Frontend)
 
-            <a href="https://github.com/Jose-Familia/Books_Crud">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-Familia&repo=Books_Crud" alt="Books_Crud card" />
-            </a>
-        </div>
+- **Books_Crud**: Crud de libros con Go, Gorm (ORM) y PostgreSQL
+  - **Tecnologías**: Go
+  - **URL**: [https://github.com/Jose-Familia/Books_Crud](https://github.com/Jose-Familia/Books_Crud)
 
-        <div>
-            <a href="https://josefamilia.me/">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-Familia&repo=portfolio" alt="Portfolio card" />
-            </a>
-        </div>
-</div>
-    ## 📚 Educación
+- **Mi Portfolio**: [portfolio-josefamilia.vercel.app](https://portfolio-josefamilia.vercel.app/)
+
+## 📚 Educación
 
 - **Ingenieria en Sistemas Computacionales** [Universidad APEC](unapec.edu.do)
 - **Cursos y Certificaciones**: 
