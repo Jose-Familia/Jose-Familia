@@ -28,15 +28,29 @@ Actualmente estoy cursando mi carrera en **Ingeniería en Sistemas** y me gusta 
 
 ## 💼 Experiencia
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-<div style="width: calc(50% - 10px); margin-bottom: 20px;"><a href="https://github.com/Jose-Familia/Prisma-Users-API"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-Familia&repo=Prisma-Users-API" alt="Prisma-Users-API card" style="width: 100%; height: auto;" /></a></div>
-<div style="width: calc(50% - 10px); margin-bottom: 20px;"><a href="https://github.com/Jose-Familia/MERM-Frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-Familia&repo=MERM-Frontend" alt="MERM-Frontend card" style="width: 100%; height: auto;" /></a></div>
-<div style="width: 100%; height: 20px;"></div>
-<div style="width: calc(50% - 10px); margin-bottom: 20px;"><a href="https://github.com/Jose-Familia/Books_Crud"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-Familia&repo=Books_Crud" alt="Books_Crud card" style="width: 100%; height: auto;" /></a></div>
-<div style="width: calc(50% - 10px); margin-bottom: 20px;"><a href="https://josefamilia.me/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-Familia&repo=portfolio" alt="Portfolio card" style="width: 100%; height: auto;" /></a></div>
-</div>
+<div>
 
-## 📚 Educación
+            <a href="https://github.com/Jose-Familia/Prisma-Users-API">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-Familia&repo=Prisma-Users-API" alt="Prisma-Users-API card" />
+            </a>
+        
+            <a href="https://github.com/Jose-Familia/MERM-Frontend">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-Familia&repo=MERM-Frontend" alt="MERM-Frontend card" />
+            </a>
+        </div>
+<div>
+
+            <a href="https://github.com/Jose-Familia/Books_Crud">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-Familia&repo=Books_Crud" alt="Books_Crud card" />
+            </a>
+        </div>
+
+        <div>
+            <a href="https://josefamilia.me/">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-Familia&repo=portfolio" alt="Portfolio card" />
+            </a>
+        </div>
+    ## 📚 Educación
 
 - **Ingenieria en Sistemas Computacionales** [Universidad APEC](unapec.edu.do)
 - **Cursos y Certificaciones**: 
