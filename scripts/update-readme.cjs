@@ -33,7 +33,7 @@ async function getLatestProjects() {
     }
 
     // Sección de experiencia con link al portfolio
-    let projectSection = `## 💼 Experiencia\n\n`;
+    let projectSection = `## 📜 Experiencia\n\n`;
 
     latestProjects.forEach(repo => {
         projectSection += `- **${repo.name}**: ${repo.description || 'Sin descripción'}\n`;
@@ -48,7 +48,7 @@ async function getLatestProjects() {
     let readmeContent = fs.readFileSync('README.md', 'utf8');
 
     // Reemplaza la sección de experiencia
-    const updatedReadme = readmeContent.replace(/## 💼 Experiencia[\s\S]*?(?=## 📚 Educación)/, projectSection);
+    const updatedReadme = readmeContent.replace(/## 📜 Experiencia[\s\S]*?(?=## 📚 Educación)/, projectSection);
 
     // Escribe el nuevo contenido en el README.md
     fs.writeFileSync('README.md', updatedReadme);
