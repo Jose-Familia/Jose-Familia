@@ -1,46 +1,33 @@
-const fetch = require('node-fetch');
 const fs = require('fs');
 
 async function getLatestProjects() {
-    const username = 'Jose-Familia';
+    const username = 'Jose-Familia'; // Cambia por tu username de GitHub
     const url = `https://api.github.com/users/${username}/repos?sort=created&per_page=100`;
 
     const response = await fetch(url, {
         headers: {
-            'Accept': 'application/vnd.github.v3+json',
-            'User-Agent': 'node-fetch'
-        }
+            'User-Agent': 'Node.js',
+        },
     });
-
-    if (!response.ok) {
-        throw new Error(`Error fetching repositories: ${response.statusText}`);
-    }
 
     const repos = await response.json();
     const nonForkRepos = repos.filter(repo => !repo.fork);
     const latestProjects = nonForkRepos.slice(0, 3);
 
+    // Modificar la sección de proyectos para usar Flexbox
     let projectSection = `## 💼 Experiencia\n\n`;
+    projectSection += `<div style="display: flex; flex-wrap: wrap; gap: 16px;">\n`; // Agregar un contenedor Flex
 
-    // Generar las tarjetas en bloques de dos
-    latestProjects.forEach((repo, index) => {
-        if (index % 2 === 0) projectSection += `<div>\n`; // Inicia el bloque de dos
-        projectSection += `
-            <a href="${repo.html_url}">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=${username}&repo=${repo.name}" alt="${repo.name} card" />
-            </a>
-        `;
-        if (index % 2 === 1 || index === latestProjects.length - 1) projectSection += `</div>\n`; // Cierra el bloque de dos
+    latestProjects.forEach(repo => {
+        projectSection += `<div style="flex: 1 0 45%;"><a href="${repo.html_url}">` +
+            `[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=${username}&repo=${repo.name})]</a></div>\n`;
     });
 
-    // Añadir el portafolio en una fila separada
-    projectSection += `
-        <div>
-            <a href="https://josefamilia.me/">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=${username}&repo=portfolio" alt="Portfolio card" />
-            </a>
-        </div>
-    `;
+    // Añadir tarjeta para el portafolio
+    projectSection += `<div style="flex: 1 0 45%;"><a href="https://josefamilia.me/">` +
+        `[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=${username}&repo=portfolio)]</a></div>\n`;
+    
+    projectSection += `</div>\n`; // Cerrar el contenedor Flex
 
     let readmeContent = fs.readFileSync('README.md', 'utf8');
     const updatedReadme = readmeContent.replace(/## 💼 Experiencia[\s\S]*?(?=## 📚 Educación)/, projectSection);
