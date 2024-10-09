@@ -20,16 +20,16 @@ async function getLatestProjects() {
     const nonForkRepos = repos.filter(repo => !repo.fork);
     const latestProjects = nonForkRepos.slice(0, 3);
 
-    let projectSection = `## 💼 Experiencia\n\n<table>\n<tr>\n`;
+    let projectSection = `## 💼 Experiencia\n\n<div style="display: flex; flex-wrap: wrap; gap: 20px;">\n`;
 
-    // Generar tarjetas en formato de tabla
+    // Generar tarjetas en formato de div
     latestProjects.forEach(repo => {
-        projectSection += `<td align="center"><a href="${repo.html_url}"><img src="https://github-readme-stats.vercel.app/api/pin/?username=${username}&repo=${repo.name}" alt="${repo.name} card" /></a></td>\n`;
+        projectSection += `<div style="flex: 1 1 calc(50% - 20px);"><a href="${repo.html_url}"><img src="https://github-readme-stats.vercel.app/api/pin/?username=${username}&repo=${repo.name}" alt="${repo.name} card" /></a></div>\n`;
     });
 
-    projectSection += `<td align="center"><a href="https://josefamilia.me/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=${username}&repo=portfolio" alt="Portfolio card" /></a></td>\n`;
+    projectSection += `<div style="flex: 1 1 calc(50% - 20px);"><a href="https://josefamilia.me/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=${username}&repo=portfolio" alt="Portfolio card" /></a></div>\n`;
 
-    projectSection += `</tr>\n</table>\n\n`;
+    projectSection += `</div>\n\n`;
 
     let readmeContent = fs.readFileSync('README.md', 'utf8');
     const updatedReadme = readmeContent.replace(/## 💼 Experiencia[\s\S]*?(?=## 📚 Educación)/, projectSection);
