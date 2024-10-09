@@ -50,6 +50,7 @@ Actualmente estoy cursando mi carrera en **Ingeniería en Sistemas** y me gusta 
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-Familia&repo=portfolio" alt="Portfolio card" />
             </a>
         </div>
+</div>
     ## 📚 Educación
 
 - **Ingenieria en Sistemas Computacionales** [Universidad APEC](unapec.edu.do)
