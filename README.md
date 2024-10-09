@@ -28,14 +28,12 @@ Actualmente estoy cursando mi carrera en **Ingeniería en Sistemas** y me gusta 
 
 ## 💼 Experiencia
 
-<table>
-<tr>
-<td align="center"><a href="https://github.com/Jose-Familia/Prisma-Users-API"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-Familia&repo=Prisma-Users-API" alt="Prisma-Users-API card" /></a></td>
-<td align="center"><a href="https://github.com/Jose-Familia/MERM-Frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-Familia&repo=MERM-Frontend" alt="MERM-Frontend card" /></a></td>
-<td align="center"><a href="https://github.com/Jose-Familia/Books_Crud"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-Familia&repo=Books_Crud" alt="Books_Crud card" /></a></td>
-<td align="center"><a href="https://josefamilia.me/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-Familia&repo=portfolio" alt="Portfolio card" /></a></td>
-</tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div style="flex: 1 1 calc(50% - 20px);"><a href="https://github.com/Jose-Familia/Prisma-Users-API"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-Familia&repo=Prisma-Users-API" alt="Prisma-Users-API card" /></a></div>
+<div style="flex: 1 1 calc(50% - 20px);"><a href="https://github.com/Jose-Familia/MERM-Frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-Familia&repo=MERM-Frontend" alt="MERM-Frontend card" /></a></div>
+<div style="flex: 1 1 calc(50% - 20px);"><a href="https://github.com/Jose-Familia/Books_Crud"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-Familia&repo=Books_Crud" alt="Books_Crud card" /></a></div>
+<div style="flex: 1 1 calc(50% - 20px);"><a href="https://josefamilia.me/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jose-Familia&repo=portfolio" alt="Portfolio card" /></a></div>
+</div>
 
 ## 📚 Educación
 
