@@ -67,11 +67,12 @@ Actualmente estoy cursando mi carrera en **Ingeniería en Sistemas** y me gusta 
 
 ## 📊 Estadísticas
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Jose-Familia&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Jose-Familia&show_icons=true&theme=radical) ![](https://github-readme-streak-stats.herokuapp.com/?user=Jose-Familia&theme=radical&hide_border=false)
+
 
 <!--START_SECTION:waka-->
 
-```txt
+```js
 From: 04 October 2024 - To: 11 October 2024
 
 Total Time: 10 mins
