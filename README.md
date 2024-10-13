@@ -72,8 +72,8 @@ Actualmente estoy cursando mi carrera en **Ingeniería en Sistemas** y me gusta 
 
 <!--START_SECTION:waka-->
 
-```js
-From: 04 October 2024 - To: 11 October 2024
+```txt
+From: 05 October 2024 - To: 12 October 2024
 
 Total Time: 10 mins
 
