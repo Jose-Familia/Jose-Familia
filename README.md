@@ -67,7 +67,7 @@ Actualmente estoy cursando mi carrera en **Ingeniería en Sistemas** y me gusta 
 
 ## 📊 Estadísticas
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Jose-Familia&show_icons=true&theme=radical) ![](https://github-readme-streak-stats.herokuapp.com/?user=Jose-Familia&theme=radical&hide_border=false)
+![jose-familia's Stats](https://github-readme-stats.vercel.app/api?username=jose-familia&theme=react&show_icons=true&hide_border=false&count_private=true) ![jose-familia's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jose-familia&theme=react&show_icons=true&hide_border=false&layout=compact) ![jose-familia's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jose-familia&theme=react&hide_border=false)
 
 
 <!--START_SECTION:waka-->
