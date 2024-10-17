@@ -38,7 +38,6 @@
 <details>
 <summary>📁 Ver Proyectos</summary>
 
-[![Boiler-Bash](https://github-readme-stats.vercel.app/api/pin/?username=Jose-Familia&repo=Boiler-Bash&theme=react)](https://github.com/Jose-Familia/Boiler-Bash)
 [![Prisma-Users-API](https://github-readme-stats.vercel.app/api/pin/?username=Jose-Familia&repo=Prisma-Users-API&theme=react)](https://github.com/Jose-Familia/Prisma-Users-API)
 [![MERM-Frontend](https://github-readme-stats.vercel.app/api/pin/?username=Jose-Familia&repo=MERM-Frontend&theme=react)](https://github.com/Jose-Familia/MERM-Frontend)
 [![Books_Crud](https://github-readme-stats.vercel.app/api/pin/?username=Jose-Familia&repo=Books_Crud&theme=react)](https://github.com/Jose-Familia/Books_Crud)
