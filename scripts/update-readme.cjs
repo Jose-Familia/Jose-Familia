@@ -21,8 +21,8 @@ async function getLatestProjects() {
     // Filtrar repos que no son forks
     const nonForkRepos = repos.filter(repo => !repo.fork);
 
-    // Obtener los 3 proyectos más recientes
-    const latestProjects = nonForkRepos.slice(0, 3);
+    // Obtener los 6 proyectos más recientes
+    const latestProjects = nonForkRepos.slice(0, 6);
 
     // Encontrar el repositorio con más estrellas
     const repoWithMostStars = nonForkRepos.reduce((max, repo) => (repo.stargazers_count > max.stargazers_count ? repo : max), nonForkRepos[0]);
