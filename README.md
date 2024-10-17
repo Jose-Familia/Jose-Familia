@@ -68,7 +68,7 @@
 </div>
 
 ## ⏱ Actividad de Codificación Semanal
-
+<!--START_SECTION:waka-->
 ```txt
 From: 09 October 2024 - To: 16 October 2024
 
@@ -79,7 +79,7 @@ JavaScript   8 mins          ██████░░░░░░░░░░░
 Markdown     1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
 Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
-
+<!--END_SECTION:waka-->
 ## 🌐 Conéctate Conmigo
 
 <div align="center">
