@@ -1,19 +1,22 @@
+# José Familia - Ingeniero en Sistemas en Formación 🚀
 
-# 👨‍💻 José Familia - Estudiante de Ingeniería en Sistemas
+## 👨‍💻 Sobre Mí
 
-¡Hola! Soy **José Familia**, un estudiante de Ingeniería en Sistemas apasionado por el desarrollo de software y la tecnología. Este repositorio sirve como mi CV interactivo, donde puedes explorar mis proyectos, habilidades, y experiencia en áreas como **Frontend**, **Bases de Datos**, **Golang**, y **Node.js**.
+¡Hola! Soy **José Familia**, un apasionado estudiante de Ingeniería en Sistemas con un fuerte interés en el desarrollo de software y la tecnología. Mi objetivo es convertirme en un desarrollador versátil y altamente competente.
 
-## 🎯 Sobre Mí
+<details>
+<summary>🎯 Mis Objetivos Profesionales</summary>
 
-Actualmente estoy cursando mi carrera en **Ingeniería en Sistemas** y me gusta explorar nuevas tecnologías orientadas al desarrollo web, ya sea de front o backend, asi como aprender constantemente sobre el mundo del desarrollo de software.
+- 🌟 Convertirme en un desarrollador Full Stack experto
+- 🌐 Contribuir a proyectos de código abierto innovadores
+- 📚 Aprender continuamente sobre arquitecturas de software avanzadas
+- 🚀 Desarrollar soluciones tecnológicas que impacten positivamente en la sociedad
 
-- 🎓 **Carrera**: Ingeniería en Sistemas
-- 🖥 **Intereses**: Desarrollo Web, Backend, y Arquitecturas de Software
-- 🌱 **Aprendiendo**: React (Next.js), Golang, Node.js (Express), Typecript y patrones de diseño de software
-- 📫 **Contáctame**: [Correo](mailto:familiajoserene@gmail.com)
-- ⚡ **Dato curioso**: ¡Me encanta la programacion y buscar soluciones innovadoras a problemas complejos!
+</details>
 
 ## 🛠 Habilidades Técnicas
+
+<div align="center">
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -26,56 +29,45 @@ Actualmente estoy cursando mi carrera en **Ingeniería en Sistemas** y me gusta 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 💼 Experiencia
+</div>
 
-- **Boiler-Bash**: Sin descripción
-  - **Tecnologías**: No especificada
-  - **URL**: [https://github.com/Jose-Familia/Boiler-Bash](https://github.com/Jose-Familia/Boiler-Bash)
+## 💼 Proyectos Destacados
 
-- **Prisma-Users-API**: Sin descripción
-  - **Tecnologías**: JavaScript
-  - **URL**: [https://github.com/Jose-Familia/Prisma-Users-API](https://github.com/Jose-Familia/Prisma-Users-API)
+<details>
+<summary>📁 Ver Proyectos</summary>
 
-- **MERM-Frontend**: Sin descripción
-  - **Tecnologías**: JavaScript
-  - **URL**: [https://github.com/Jose-Familia/MERM-Frontend](https://github.com/Jose-Familia/MERM-Frontend)
+[![Boiler-Bash](https://github-readme-stats.vercel.app/api/pin/?username=Jose-Familia&repo=Boiler-Bash&theme=react)](https://github.com/Jose-Familia/Boiler-Bash)
+[![Prisma-Users-API](https://github-readme-stats.vercel.app/api/pin/?username=Jose-Familia&repo=Prisma-Users-API&theme=react)](https://github.com/Jose-Familia/Prisma-Users-API)
+[![MERM-Frontend](https://github-readme-stats.vercel.app/api/pin/?username=Jose-Familia&repo=MERM-Frontend&theme=react)](https://github.com/Jose-Familia/MERM-Frontend)
+[![Books_Crud](https://github-readme-stats.vercel.app/api/pin/?username=Jose-Familia&repo=Books_Crud&theme=react)](https://github.com/Jose-Familia/Books_Crud)
 
-- **Books_Crud**: Crud de libros con Go, Gorm (ORM) y PostgreSQL
-  - **Tecnologías**: Go
-  - **URL**: [https://github.com/Jose-Familia/Books_Crud](https://github.com/Jose-Familia/Books_Crud)
+</details>
 
-- **Mi Portfolio**: [portfolio-josefamilia.vercel.app](https://portfolio-josefamilia.vercel.app/)
+## 📚 Educación y Certificaciones
 
-## 📚 Educación
+- 🎓 **Ingeniería en Sistemas Computacionales** - [Universidad APEC](https://unapec.edu.do)
+- 📜 **Certificaciones**:
+  - [Programación Frontend](https://app.aluracursos.com/user/Familiajoserene/fullCertificate/a3c142864461f440423656cc397e8632) - Alura Latam
+  - [Responsive Web Design](https://www.freecodecamp.org/certification/JoseReneFamilia/responsive-web-design) - FreeCodeCamp
 
-- **Ingenieria en Sistemas Computacionales** [Universidad APEC](unapec.edu.do)
-- **Cursos y Certificaciones**: 
-  - Curso Programacion Frontend [Alura Latam](https://app.aluracursos.com/user/Familiajoserene/fullCertificate/a3c142864461f440423656cc397e8632)
-  - Curso Responsive Web Desing [FreeCodeCamp](https://www.freecodecamp.org/certification/JoseReneFamilia/responsive-web-design)
+## 🏆 Logros y Contribuciones
 
-## 🤝 Contribuciones y badges
+- 🎉 [Hacktoberfest 2023](https://www.holopin.io/userbadge/cm15klvju35030cmmxfh301gc)
+- 🌟 [GitHub Universe 2023 Cloud Skills Challenge](https://learn.microsoft.com/api/achievements/share/es-es/JoseFamilia-0966/WA4YTS3N?sharingId=7C7093112995AB10)
 
-- **Hacktober Fest 2023** [Badge](https://www.holopin.io/userbadge/cm15klvju35030cmmxfh301gc)
-- **GitHub Universe 2023 Cloud Skills Challenge** [Badge](https://learn.microsoft.com/api/achievements/share/es-es/JoseFamilia-0966/WA4YTS3N?sharingId=7C7093112995AB10)
+## 📊 Estadísticas de GitHub
 
-## 🌱 Objetivos
+<div align="center">
 
-- Mejorar mis habilidades en **Backend** y **Frontend**.
-- Contribuir a proyectos de código abierto.
-- Aprender más sobre **arquitectura de software**.
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jose-familia&theme=react&show_icons=true&hide_border=false&count_private=true"/>
 
-## 🔗 Encuéntrame en:
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-familia&theme=react&show_icons=true&hide_border=false&layout=compact"/>
 
-- [GitHub](https://github.com/Jose-Familia)
-- [LinkedIn](https://www.linkedin.com/in/jrfamilia/)
-- [Correo](mailto:familiajoserene@gmail.com)
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jose-familia&theme=react&hide_border=false"/>
 
-## 📊 Estadísticas
+</div>
 
-![jose-familia's Stats](https://github-readme-stats.vercel.app/api?username=jose-familia&theme=react&show_icons=true&hide_border=false&count_private=true) ![jose-familia's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jose-familia&theme=react&show_icons=true&hide_border=false&layout=compact) ![jose-familia's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jose-familia&theme=react&hide_border=false)
-
-
-<!--START_SECTION:waka-->
+## ⏱ Actividad de Codificación Semanal
 
 ```txt
 From: 09 October 2024 - To: 16 October 2024
@@ -88,9 +80,18 @@ Markdown     1 min           █░░░░░░░░░░░░░░░░
 Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
-<!--END_SECTION:waka-->
+## 🌐 Conéctate Conmigo
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jose-Familia)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jrfamilia/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:familiajoserene@gmail.com)
+
+</div>
 
 ---
 
-Gracias por visitar mi perfil. ¡Espero que podamos colaborar pronto! 👋🤍
-
+<div align="center">
+  <i>Gracias por visitar mi CV interactivo. ¡Espero que podamos colaborar pronto! 👋🤍</i>
+</div>
