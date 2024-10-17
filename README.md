@@ -1,4 +1,6 @@
-# José Familia - Ingeniero en Sistemas en Formación 🚀
+# José Familia - Estudiante de Ingeniería en Sistemas
+
+![Header](https://github.com/user-attachments/assets/ae4601a6-873e-4ee2-bf89-57b9a6c1ac73)
 
 ## 👨‍💻 Sobre Mí
 
