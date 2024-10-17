@@ -95,5 +95,5 @@ Bash         0 secs          ░░░░░░░░░░░░░░░░░
 ---
 
 <div align="center">
-  <i>Gracias por visitar mi CV interactivo. ¡Espero que podamos colaborar pronto! 👋🤍</i>
+  <i>Gracias por visitar mi perfil. ¡Espero que podamos colaborar pronto! 👋🤍</i>
 </div>
