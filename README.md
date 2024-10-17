@@ -1,6 +1,6 @@
 # José Familia - Estudiante de Ingeniería en Sistemas
 
-![Header](https://github.com/user-attachments/assets/ae4601a6-873e-4ee2-bf89-57b9a6c1ac73)
+![Header](https://github.com/user-attachments/assets/d4ef23cb-32aa-453f-9973-a72237403d74)
 
 ## 👨‍💻 Sobre Mí
 
