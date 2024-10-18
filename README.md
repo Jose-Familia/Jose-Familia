@@ -63,11 +63,11 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jose-familia&theme=react&show_icons=true&hide_border=false&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=jose-familia&theme=react&show_icons=true&hide_border=false&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-familia&theme=react&show_icons=true&hide_border=false&layout=compact"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-familia&theme=react&show_icons=true&hide_border=false&layout=compact"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jose-familia&theme=react&hide_border=false"/>
+<img height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=jose-familia&theme=react&hide_border=false"/>
 
 </div>
 
