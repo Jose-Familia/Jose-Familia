@@ -1,6 +1,6 @@
-<h1> José Familia <a href="">Estudiante de Ingeniería en Sistemas</a></h1>
+<h1 align="center"> José Familia <a href="">Estudiante de Ingeniería en Sistemas</a></h1>
 
-![github-header-image](https://github.com/user-attachments/assets/571bc56b-d8af-40b2-be03-9df76b5b02bb)
+![github-header-image](https://github.com/user-attachments/assets/733deca7-64fa-41a6-bff2-568fea7f935d)
 
 ## 👨‍💻 Sobre Mí
 
