@@ -38,11 +38,11 @@
 <details>
 <summary>📁 Ver Proyectos</summary>
 
+[![AutoSeacrh-Script](https://github-readme-stats.vercel.app/api/pin/?username=Jose-Familia&repo=AutoSeacrh-Script&theme=react)](https://github.com/Jose-Familia/AutoSeacrh-Script)
 [![Prisma-Users-API](https://github-readme-stats.vercel.app/api/pin/?username=Jose-Familia&repo=Prisma-Users-API&theme=react)](https://github.com/Jose-Familia/Prisma-Users-API)
 [![MERM-Frontend](https://github-readme-stats.vercel.app/api/pin/?username=Jose-Familia&repo=MERM-Frontend&theme=react)](https://github.com/Jose-Familia/MERM-Frontend)
 [![Books_Crud](https://github-readme-stats.vercel.app/api/pin/?username=Jose-Familia&repo=Books_Crud&theme=react)](https://github.com/Jose-Familia/Books_Crud)
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Jose-Familia&repo=Portfolio&theme=react)](https://github.com/Jose-Familia/Portfolio)
-[![Single-CV](https://github-readme-stats.vercel.app/api/pin/?username=Jose-Familia&repo=Single-CV&theme=react)](https://github.com/Jose-Familia/Single-CV)
 [![Caesar-cipher](https://github-readme-stats.vercel.app/api/pin/?username=Jose-Familia&repo=Caesar-cipher&theme=react)](https://github.com/Jose-Familia/Caesar-cipher)
 
 </details>
