@@ -4,7 +4,7 @@
 
 ## 👨‍💻 Sobre Mí
 
-¡Hola! Soy <strong><a href="https://josefamilia.me" target="_blank">José Familia</a></strong>, un apasionado estudiante de Ingeniería en Sistemas con un fuerte interés en el desarrollo de software y la tecnología. Mi objetivo es convertirme en un desarrollador versátil y altamente competente.
+¡Hola! Soy <strong><a href="https://josefamilia.me" target="_blank" rel="noopener noreferrer">José Familia</a></strong>, un apasionado estudiante de Ingeniería en Sistemas con un fuerte interés en el desarrollo de software y la tecnología. Mi objetivo es convertirme en un desarrollador versátil y altamente competente.
 
 <details>
 <summary>🎯 Mis Objetivos Profesionales</summary>
