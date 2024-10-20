@@ -75,12 +75,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 October 2024 - To: 18 October 2024
+From: 12 October 2024 - To: 19 October 2024
 
-Total Time: 26 mins
+Total Time: 37 mins
 
-HTML   26 mins         █████████████████████████   99.84 %
-Bash   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+HTML     26 mins         █████████████████░░░░░░░░   69.50 %
+Python   11 mins         ████████░░░░░░░░░░░░░░░░░   30.39 %
+Bash     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
