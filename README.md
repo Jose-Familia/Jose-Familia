@@ -75,14 +75,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 October 2024 - To: 05 November 2024
+From: 30 October 2024 - To: 06 November 2024
 
-Total Time: 12 mins
+Total Time: 19 mins
 
-Rust         6 mins          █████████████░░░░░░░░░░░░   52.57 %
-HTML         1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 %
-C            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Rust         8 mins          ███████████░░░░░░░░░░░░░░   43.66 %
+HTML         1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+C            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
 <!--END_SECTION:waka-->
