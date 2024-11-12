@@ -75,14 +75,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 November 2024 - To: 09 November 2024
+From: 04 November 2024 - To: 11 November 2024
 
-Total Time: 1 hr 30 mins
+Total Time: 1 hr 17 mins
 
-Python       53 mins         ███████████████░░░░░░░░░░   58.82 %
-TypeScript   10 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 %
-Rust         8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 %
-Git Config   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
+Python       53 mins         █████████████████░░░░░░░░   68.48 %
+TypeScript   10 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.10 %
+Git Config   5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
+Rust         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
 ```
 
 <!--END_SECTION:waka-->
