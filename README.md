@@ -1,6 +1,7 @@
 <h1 align="center"> José Familia <a href="">Estudiante de Ingeniería en Sistemas</a></h1>
 
-![github-header-image](https://github.com/user-attachments/assets/733deca7-64fa-41a6-bff2-568fea7f935d)
+<img height="750x300" src="https://github.com/user-attachments/assets/c670ad22-85db-4399-b183-3b11c8ea2174">
+
 
 ## 👨‍💻 Sobre Mí
 
@@ -66,8 +67,6 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jose-familia&theme=react&show_icons=true&hide_border=false&count_private=true"/>
 
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-familia&theme=react&show_icons=true&hide_border=false&layout=compact"/>
-
-<img height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=jose-familia&theme=react&hide_border=false"/>
 
 </div>
 
