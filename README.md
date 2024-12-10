@@ -32,12 +32,12 @@
 <details>
 <summary>📁 Ver Proyectos</summary>
 
+[![Libreria](https://github-readme-stats.vercel.app/api/pin/?username=Jose-Familia&repo=Libreria&theme=react)](https://github.com/Jose-Familia/Libreria)
 [![Browsers-Search-automatizacion](https://github-readme-stats.vercel.app/api/pin/?username=Jose-Familia&repo=Browsers-Search-automatizacion&theme=react)](https://github.com/Jose-Familia/Browsers-Search-automatizacion)
 [![TI_Tickets-administration](https://github-readme-stats.vercel.app/api/pin/?username=Jose-Familia&repo=TI_Tickets-administration&theme=react)](https://github.com/Jose-Familia/TI_Tickets-administration)
 [![AutoSeacrh-Script](https://github-readme-stats.vercel.app/api/pin/?username=Jose-Familia&repo=AutoSeacrh-Script&theme=react)](https://github.com/Jose-Familia/AutoSeacrh-Script)
 [![Prisma-Users-API](https://github-readme-stats.vercel.app/api/pin/?username=Jose-Familia&repo=Prisma-Users-API&theme=react)](https://github.com/Jose-Familia/Prisma-Users-API)
 [![MERM-Frontend](https://github-readme-stats.vercel.app/api/pin/?username=Jose-Familia&repo=MERM-Frontend&theme=react)](https://github.com/Jose-Familia/MERM-Frontend)
-[![Books_Crud](https://github-readme-stats.vercel.app/api/pin/?username=Jose-Familia&repo=Books_Crud&theme=react)](https://github.com/Jose-Familia/Books_Crud)
 
 </details>
 
