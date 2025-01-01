@@ -67,11 +67,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 December 2024 - To: 30 December 2024
+From: 24 December 2024 - To: 31 December 2024
 
-Total Time: 0 secs
+Total Time: 1 hr 30 mins
 
-No activity tracked
+TypeScript    57 mins         ████████████████░░░░░░░░░   63.66 %
+Astro         21 mins         ██████░░░░░░░░░░░░░░░░░░░   23.33 %
+JavaScript    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
