@@ -2,7 +2,7 @@ name: Actualizar README con últimos proyectos
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Se ejecutará todos los días a medianoche (UTC)
+    - cron: '0 22 * * 0'  # Se ejecutará todos los días a medianoche (UTC)
   workflow_dispatch:  # Para que también puedas ejecutarlo manualmente
 
 jobs:
