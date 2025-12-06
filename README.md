@@ -36,14 +36,7 @@ const jose: PerfilJose = {
   backend: ["Node.js", "Nest.js", "Express", "Go"],
   devops: ["Docker", "GitHub Actions", "Jenkins", "Nginx"],
   datos: ["Python", "Excel", "Power BI"],
-  basesDeDatos: [
-    "PostgreSQL",
-    "MongoDB",
-    "MySQL",
-    "SQL Server",
-    "SQLite",
-    "Prisma",
-  ],
+  basesDeDatos: ["PostgreSQL", "MongoDB", "MySQL", "SQL Server", "SQLite", "Prisma"],
   aprendiendo: ["Arquitectura de Software", "Patrones de Diseño"],
   pasiones: ["Anime 🎌", "Béisbol ⚾", "Open Source 🌟"],
 };
