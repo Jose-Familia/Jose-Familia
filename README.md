@@ -34,8 +34,9 @@ I am currently:
       <br>HTML
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
-      <br>CSS
+      <!-- Nueva versión moderna -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+      <br>CSS3
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
@@ -56,6 +57,10 @@ I am currently:
     <td align="center" width="96">
       <img src="https://cdn.simpleicons.org/astro/FF5D01" width="48" height="48" alt="Astro" />
       <br>Astro
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="TailwindCSS" />
+      <br>Tailwind
     </td>
   </tr>
 
@@ -88,8 +93,13 @@ I am currently:
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
       <br>GitHub
     </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="48" height="48" alt="PowerShell" />
+      <br>PowerShell
+    </td>
   </tr>
 </table>
+
 
 
 ---
