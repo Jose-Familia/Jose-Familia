@@ -123,6 +123,57 @@ To grow into a Full-Stack Engineer capable of:
 - Advancing toward software architecture or data engineering  
 
 ---
+
+## 🏅 Certifications & Technical Credentials
+
+<table>
+  <tr>
+    <td align="center" width="180">
+      <img 
+        alt="SQL Associate Badge" 
+        src="https://github.com/user-attachments/assets/f2f35d2c-9e72-4699-b96e-ee19080be0fd" 
+        width="70" 
+      />
+      <br>
+      <strong>SQL Associate</strong>
+      <br>
+      DataCamp
+      <br>
+      2026
+    </td>
+    <td align="center" width="180">
+      <img 
+        alt="AWS Certified Cloud Practitioner Badge" 
+        src="https://github.com/user-attachments/assets/a7fa8cc9-a02f-48ed-894a-dc6f35be9351"
+        width="70" 
+      />
+      <br>
+      <strong>AWS Cloud Practitioner</strong>
+      <br>
+      Amazon Web Services
+      <br>
+      2025
+    </td>
+     <td align="center" width="180">
+      <img 
+        alt="GitHub Universe 2023 Cloud Skills Challenge Badge" 
+        src="https://github.com/user-attachments/assets/0772b3d0-dd4c-4de9-ba6f-ff50bcd12478"
+        width="70" 
+      />
+      <br>
+      <strong>GitHub Universe 2023</strong>
+      <br>
+      Cloud Skills Challenge
+      <br>
+      GitHub
+    </td>
+  </tr>
+</table>
+
+
+
+
+---
 ## 📬 Contact
 
 <p align="center">
